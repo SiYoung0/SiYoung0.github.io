@@ -20,6 +20,20 @@
 | Oracle | Kotrin | Big Data |
 | | | Jupyter lab | 
 
+## 도제학교 취업 ([시큐레이어](./job.md))
+- 2023년 3월 oo 일 첫출근
+
+## 첫 번째 과제
+- 게시판 만들기
+- 내가 준비할 내용
+    - Node.js, jQuery
+    - MariaDB
+    - JSP
+- 준비할 자격증
+    - 정보처리산업기사
+    - 웹디자인기능사
+    - SW_L3 자격증
+
 ## 배우고 싶은 것들
 
 - [ ] Math
